@@ -7,6 +7,6 @@ public class DemoClass {
 public void GithubFile() {
 	System.out.println("send the file through the github");
 	System.out.println("this is my secoound bug ");
-	System.out.println("this is new buh");
+	System.out.println("this is new bug");
 }
 }
